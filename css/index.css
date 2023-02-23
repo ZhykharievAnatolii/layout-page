@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #008BAA;
+    min-height: 104px;
+}
+.logo-text{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.link-tel{
+    text-decoration: none;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+.link-tel span{
+    font-size: 16px;
+}
